@@ -3,7 +3,7 @@ Estudiantes:
 * Lucia Castillo - 202214949
 * Daniel Eduardo Rivera - 202123493
   
-El codigo define varias expresiones regulares que definen la gramtica, luego por medio de varios condicionales se verifica que se cumplan las expresiones regulares y por lo tanto la gramatica.
+El codigo define varias expresiones regulares que definen la gramatica, luego por medio de varios condicionales se verifica que se cumplan las expresiones regulares y por lo tanto la gramatica.
 
 Entrada: nombre archivo txt.
 
